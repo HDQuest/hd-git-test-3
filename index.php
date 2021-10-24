@@ -9,6 +9,9 @@
 <body>
     <h1>Salam dari Binjai!</h1>
     <p>Ini percobaan remote dengan mengganti nama (ikut intruksi dari Github).</p>
+    <ul>
+        <li>HILMI</li>
+    </ul>
     
 </body>
 </html>
